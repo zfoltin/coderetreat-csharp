@@ -1,7 +1,8 @@
-_ReSharper* 
+_ReSharper*
 _NCrunch*
 *.ncrunchproject
-packages
+!packages/repositories.config
+packages/*/
 *.suo
 *.user
 [Bb]in/

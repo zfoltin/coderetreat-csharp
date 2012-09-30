@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{FF6BAEC7-2290-4E3B-A3CE-072D86B73919}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF6BAEC7-2290-4E3B-A3CE-072D86B73919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6BAEC7-2290-4E3B-A3CE-072D86B73919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6BAEC7-2290-4E3B-A3CE-072D86B73919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6BAEC7-2290-4E3B-A3CE-072D86B73919}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
